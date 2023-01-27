@@ -2,3 +2,10 @@
 # seng438-a1
 
 Read [the assignment guideline](seng438-a1.md) 
+
+| Group: 8      |
+|-----------------|
+| Danny Duong 30120124                  |   
+| Kevin Johnson 30124217                 |   
+| Kaito Sugimura 30093204                |   
+| Joshua Walters 30119430                |   
